@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello! I'm [Your Name], a passionate and aspiring cloud computing enthusiast currently learning and exploring the vast world of cloud technologies. This GitHub repository serves as a portfolio to showcase my hands-on experience, projects, and skills related to cloud computing.
+Hello! I'm Cynthia, a passionate and aspiring cloud computing enthusiast currently learning and exploring the vast world of cloud technologies. This GitHub repository serves as a portfolio to showcase my hands-on experience, projects, and skills related to cloud computing.
 
 ## Projects
 
@@ -52,15 +52,14 @@ List your cloud computing skills. Include specific technologies, platforms, and 
 
 ## Education
 
-Document your current educational status, mentioning your degree, major, and the expected graduation date.
+Document your current educational status, mentioning your degree, major, and expected graduation date.
 
 ## How to Reach Me
 
 Include your contact information or professional social media profiles so that potential employers can connect with you.
 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
-- Email: your.email@example.com
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- Email: cynnwaka@gmail.com
 
 ## License
 
